@@ -1,6 +1,8 @@
 # Kirby-Valley
 
-A Wabbajack install for the modlist used by [Rythian](https://www.twitch.tv/rythian), [Briony](https://www.twitch.tv/brionykay), and [Kirsty](https://www.twitch.tv/kirsty) in their Stardew Valley 1.6 playthrough.
+A Wabbajack install for the modlist used by [Rythian](https://www.twitch.tv/rythian), [Briony](https://www.twitch.tv/brionykay), and [Kirsty](https://www.twitch.tv/kirsty) in their Stardew Valley 1.6 playthrough.  
+
+The modlist can be found [here](https://github.com/Tom-Ayling/Kirby-Valley/blob/main/ModList.md)
 
 
 # Installation
