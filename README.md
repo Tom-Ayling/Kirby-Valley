@@ -11,6 +11,6 @@ A Wabbajack install for the modlist used by [Rythian](https://www.twitch.tv/ryth
 - Open the Wabbajack.exe file and select Install From Disk.  
 - Point the Target Modlist to Kirby Valley.wabbajack.  
 - Point the Modlist Installation Location and the Resource Download Location to your desired location (this is where the modlist will be stored, and launched from).  
-- Tick Overwrite Installation and click the start button and wait for Wabbajack to Download and Install the modlist.  
+- Tick Overwrite Installation, click the start button and wait for Wabbajack to Download and Install the modlist.  
 - Once completed, click the Install Folder button and launch ModOrganizer.exe  
 - In the top right make sure SMAPI is selected and then press run to lauch Stardew  
