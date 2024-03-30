@@ -15,7 +15,7 @@
 | Automate                                                     | https://www.nexusmods.com/stardewvalley/mods/1063  |
 | Better Ranching                                              | https://www.nexusmods.com/stardewvalley/mods/859   |
 | Harvest Moon FoMT-like Watering Can And Hoe Area             | https://www.nexusmods.com/stardewvalley/mods/7851  |
-| CJB Show Item Sell Price                                     | https://www.nexusmods.com/stardewvalley/mods/1915  |
+| CJB Show Item Sell Price                                     | https://www.nexusmods.com/stardewvalley/mods/5  |
 | Community Center Helper                                      | https://www.nexusmods.com/stardewvalley/mods/6893  |
 | Content Patcher                                              | https://www.nexusmods.com/stardewvalley/mods/1915  |
 | Crab Pot Loot Has Quality And Bait Effects                   | https://www.nexusmods.com/stardewvalley/mods/7767  |
