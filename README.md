@@ -4,6 +4,8 @@ A Wabbajack install for the modlist used by [Rythian](https://www.twitch.tv/ryth
 
 The modlist can be found [here](https://docs.google.com/spreadsheets/d/16nyz3Ih0oG4xFjlfHmgq0oIESv6ZHJ5--CS6kITY8f4)
 
+If you would prefer a Vortex collection, lithiumstars has made one available [here](https://next.nexusmods.com/stardewvalley/collections/9cchjn?tab=about)
+
 
 # Installation
 
