@@ -10,7 +10,7 @@ The modlist can be found [here](https://docs.google.com/spreadsheets/d/16nyz3Ih0
 - Install Stardew Valley
 - Download [Wabbajack](https://www.wabbajack.org/).  
 - Move the Wabbajack.exe file to a new folder, it cannot be in a common folder such as Desktop, Downloads or Program Files.  
-- Download the Kirby Valley.wabbajack from the [releases page](https://github.com/Tom-Ayling/Kirby-Valley/releases).  
+- Download the Kirby.Valley.wabbajack file from the [releases page](https://github.com/Tom-Ayling/Kirby-Valley/releases).  
 - Open the Wabbajack.exe file and select Install From Disk.  
 - Point the Target Modlist to Kirby Valley.wabbajack.  
 - Point the Modlist Installation Location and the Resource Download Location to your desired location (this is where the modlist will be stored, and launched from).  
