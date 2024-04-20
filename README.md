@@ -2,7 +2,7 @@
 
 A Wabbajack install for the modlist used by [Rythian](https://www.twitch.tv/rythian), [Briony](https://www.twitch.tv/brionykay), and [Kirsty](https://www.twitch.tv/kirsty) in their Stardew Valley 1.6 playthrough.  
 
-The modlist can be found [here](https://docs.google.com/spreadsheets/d/16nyz3Ih0oG4xFjlfHmgq0oIESv6ZHJ5--CS6kITY8f4)
+The modlist can be found [here](https://github.com/Tom-Ayling/Kirby-Valley/blob/main/Modlist.md)
 
 If you would prefer a Vortex collection, lithiumstars has made one available [here](https://next.nexusmods.com/stardewvalley/collections/9cchjn?tab=about)
 
